@@ -1,0 +1,7 @@
+/* styles/reset.css */
+
+/* Reset CSS styles to ensure consistency across browsers */
+body, h1, p, img {
+    margin: 0;
+    padding: 0;
+}
